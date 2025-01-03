@@ -8,10 +8,10 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Gather data that includes the independent variable (e.g., study hours) and the dependent variable (e.g., marks scored).
+2. Use the trained model to predict marks for new, unseen data (test data) using the predict() method
+3. Evaluate the model’s performance using metrics like Mean Squared Error (MSE) or R-squared to check how well the model predicts the marks based on input features.
+4. Clean the data by handling missing values and splitting it into training and testing datasets.
 
 ## Program:
 ```
